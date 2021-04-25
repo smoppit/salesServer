@@ -1,0 +1,2 @@
+# salesServer
+smoppitSales Shopsystem
